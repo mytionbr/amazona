@@ -39,6 +39,7 @@ body{
 
 .header-links a{
     color:#ffffff;
+    padding-right: 1rem;
 }
 .header-links a:hover{
     color:#ff8000;
